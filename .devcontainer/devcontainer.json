@@ -13,6 +13,6 @@
 		}
 	},
   "forwardPorts": [8080],
-  "postCreateCommand": "./.devcontainer/install-litmus.sh",
+  "postCreateCommand": "chmod +x ./.devcontainer/install-litmus.sh && ./.devcontainer/install-litmus.sh",
   "remoteUser": "vscode"
 }
