@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     infra_id: d89bf991-722f-40c6-b563-351f0658ce74
+    revision_id: 7e9201a8-a3ca-4b11-8611-0eddefd26548
     workflows.argoproj.io/controller-instanceid: d89bf991-722f-40c6-b563-351f0658ce74
   name: two
   namespace: litmus
